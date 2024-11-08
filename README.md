@@ -1,0 +1,1 @@
+For digital design, we can create a Python simulation of basic digital circuits like AND, OR, NOT, NAND, NOR, and XOR gates, which are fundamental building blocks in digital design. These gates can be used to design combinational and sequential circuits.
